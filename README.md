@@ -10,11 +10,10 @@ A badUSB script that gains full admin access to a windows machine from the login
 Must use [my fork](https://github.com/TzurSoffer/pico-ducky/tree/main) of the pico-ducky as it supports holding and releasing keys.
 
 ### How it works:
-1. It boots into safe mode
+1. It reboots into safe mode
 2. It opens a cmd from safe mode
 3. It changes the Utilman.exe to be a cmd.exe
 4. It boots back into windows
 5. It opens the help menu which has been replaced with a cmd instance
 6. It creates a new admin account named ```rubberDucky``` with the password ```1234```
-7. it Reboots again, to register the new account
-8. It logs into the new account
+7. It logs into the new account
