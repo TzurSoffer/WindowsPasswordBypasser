@@ -5,6 +5,9 @@ This script is provided "as is" without any warranty of any kind, either express
 
 ### If you found [this repository](https://github.com/TzurSoffer/WindowsPasswordBypasser) useful, please give it a ⭐!.
 
+## Showcase
+
+[Watch showcase video on youtube](https://www.youtube.com/shorts/1XvC-QQdRzU)
 ## About:
 A badUSB script that gains full admin access to a windows machine from the login screen.
 
