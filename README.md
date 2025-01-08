@@ -14,9 +14,6 @@ A badUSB script that gains full admin access to a windows machine from the login
 
 **IMPORTANT NOTE**: This only works on machines with a local account; if you use an account connected to Microsoft, this will not work!
 
-## Note for pico-ducky
-You might have to remove the following line as its not supported by the pico-ducky, but worry, the code should work just fine without it. ```EXTENSION PASSIVE_WINDOWS_DETECT```
-
 ### How it works:
 1. It reboots into safe mode
 2. It opens a cmd from safe mode
