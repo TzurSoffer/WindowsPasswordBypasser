@@ -8,7 +8,7 @@ DEFINE #ACCOUNT_PASSWORD 1234
 DEFINE #ACCOUNT_NAME rubberDucky
 
 REM wait for Windows to accept keystrokes
-EXTENSION PASSIVE_WINDOWS_DETECT
+DELAY 2000
 
 REM get into safe mode
 STRING QQQQQQQQQ
