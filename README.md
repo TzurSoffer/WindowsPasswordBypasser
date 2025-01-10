@@ -9,6 +9,11 @@ This script is provided "as is" without any warranty of any kind, either express
 
 [Watch showcase video on youtube](https://www.youtube.com/shorts/1XvC-QQdRzU)
 
+## Installation:
+1. **For hac5 rubberDucky**: simply install the payload.txt onto the badUSB.
+2. **For RPI-pico**: install the [pico ducky](https://github.com/dbisu/pico-ducky) and then replace the content of the payload.dd with the content of the payload.txt
+3. **For Arduino-based badUSBs**: use the Arduino ide to compile and upload the payload.ino file onto the badUSB
+
 ## About:
 A badUSB script that gains full admin access to a windows machine from the login screen.
 
