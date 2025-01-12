@@ -17,8 +17,6 @@ This script is provided "as is" without any warranty of any kind, either express
 ## About:
 A badUSB script that gains full admin access to a windows machine from the login screen.
 
-**IMPORTANT NOTE**: This only works on machines with a local account; if you use an account connected to Microsoft, this will not work!
-
 ### How it works:
 1. It reboots into safe mode
 2. It opens a cmd from safe mode
